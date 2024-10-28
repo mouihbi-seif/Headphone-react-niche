@@ -2,7 +2,7 @@ import Hero from './components/hero/Hero';
 import Navbar from './components/navbar/Navbar';
 import { UpdateFollower } from 'react-mouse-follower';
 import Services from './components/services/Services';
-import Banner from './components/Banner/Banner';
+import Banner from './components/banner/Banner';
 import BannerText from './components/banner/BannerText';
 import Blog from './components/blog/Blog';
 import Footer from './components/footer/Footer';
